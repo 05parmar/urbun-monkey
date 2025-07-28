@@ -158,3 +158,14 @@
   width: 40vw;
   margin-top: 10px;
 }
+
+
+footer {
+  /* background-color: rgb(246, 240, 240); */
+  color: rgb(14, 13, 13);
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
